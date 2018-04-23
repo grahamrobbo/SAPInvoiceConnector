@@ -6,9 +6,9 @@
   <guid>f0604288-5543-4ba7-b4b4-b8e9d73ab767</guid>
   <name>SAPInvoiceConnector</name>
   <description>SAPInvoiceConnector</description>
-  <publisher></publisher>
+  <publisher>Yelcho Systems Consulting</publisher>
   <version>1.0.0.0</version>
-  <copyright></copyright>
+  <copyright>Copyrite 2018</copyright>
   <extension-objects>
     <extension-object>
       <name>SAPInvoiceConnector</name>
